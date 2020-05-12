@@ -1,0 +1,24 @@
+{
+  "payout_addresses": {
+  	"ZL2AftSJhQQwUzJSct4aym7Stj9kSPsrta": {
+      "name": "ZPool.ca",
+      "link": "https://www.zpool.ca/"
+    },
+  	"ZCd24H5e7crAPWwVUJefmBH86166BgDkVb": {
+      "name": "netabuse.net",
+      "link": "https://pools.netabuse.net/pool/NOR"
+    },
+  	"ZHTA15fnkTUpqvJy1csPBWLvtT317WnPBv": {
+      "name": "pool.noirofficial.org",
+      "link": "https://pool.noirofficial.org"
+    },
+  	"ZNq8QzMy6MZixA56AsvaoM6WixMPc9evqN": {
+      "name": "trossmining",
+      "link": "http://trossmining.zapto.org/"
+    },
+  	"ZThMUGqvumeaMbHmujxVLsV13GEACqhHdZ": {
+      "name": "pool2mine",
+      "link": "https://pool2mine.com/"
+    }
+  }
+}  
